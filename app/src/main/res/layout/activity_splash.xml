@@ -7,7 +7,7 @@
     android:background="#28ffad"
     android:orientation="vertical"
     android:gravity="center"
-    tools:context="com.example.pinak.demos.Splash">
+    tools:context="com.mehul.pinak.app.Splash">
 
     <ImageView
         android:id="@+id/img_splash"
@@ -24,7 +24,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20sp"
         android:layout_marginTop="25dp"
-        android:textColor="#121149"
+        android:textColor="#273B7A"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         tools:ignore="RtlHardcoded" />

@@ -1,4 +1,4 @@
-package com.example.pinak.demos;
+package com.mehul.pinak.app;
 
 import org.junit.Test;
 

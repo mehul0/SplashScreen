@@ -1,7 +1,6 @@
-package com.example.pinak.demos;
+package com.mehul.pinak.app;
 
 import android.content.Intent;
-import android.media.Image;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ImageView;
@@ -25,7 +24,7 @@ public class Splash extends AppCompatActivity {
                 }catch(InterruptedException e){
                     e.printStackTrace();
                 }finally{
-                    Intent intent = new Intent(Splash.this,HomeActivity.class);
+                    Intent intent = new Intent(Splash.this,MainActivity.class);
                     startActivity(intent);
                     //finish();
                 }
